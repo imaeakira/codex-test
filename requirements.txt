@@ -1,1 +1,1 @@
-text\npytest==8.2.0\n
+pytest==8.2.0
