@@ -1,0 +1,242 @@
+{
+  "metadata": {
+    "title": {
+      "ja": "学びを、持ち運べる証明に変えた ── 教育年表",
+      "en": "Turning Learning into a Portable Credential: A Timeline of Japanese Education"
+    },
+    "description": {
+      "ja": "「学校は何を何年残すと決めたか」を軸に、日本の教育制度と学校外の学びの市場をたどる年表。各項目に一次資料のURLを付した。",
+      "en": "A timeline of Japanese education traced through what records schools decided to keep, and for how long."
+    },
+    "initialCreator": "Imae Akira",
+    "contributors": [
+      "Imae Akira"
+    ]
+  },
+  "events": {
+    "1872": [
+      {
+        "label": "学制発布",
+        "startYear": "1872",
+        "genre": [
+          "LAW"
+        ],
+        "imp": 5,
+        "url": "https://www.mext.go.jp/b_menu/hakusho/html/others/detail/1318229.htm",
+        "note": "全国民に教育を、という理念。ただし小学校は「基本的に地方民衆の民費や寄附金などにより設立維持された」（文部科学省『学制百二十年史』）。",
+        "label_en": "Gakusei (Education System Order) promulgated"
+      }
+    ],
+    "1873": [
+      {
+        "label": "就学率28.1％／学校が焼き討ちされる",
+        "startYear": "1873",
+        "genre": [
+          "INCIDENT"
+        ],
+        "imp": 5,
+        "url": "https://www.mext.go.jp/b_menu/hakusho/html/others/detail/1318229.htm",
+        "note": "翌1873年の就学率は男39.9％・女15.1％・平均28.1％。『学制百二十年史』は「民衆に大きな経済的負担を課した」「欧米風の新しい教育内容は当時の民衆の生活に即応したものではなかった」とし、「徴兵や地租改正など新政府の他の政策への批判と結び付いて、農民一揆の際にしばしば学校が焼き討ちされるという事態を見るようにさえなった」と記す。"
+      }
+    ],
+    "1885": [
+      {
+        "label": "小学校令：小学簡易科は授業料を徴収しない",
+        "startYear": "1885",
+        "genre": [
+          "LAW"
+        ],
+        "imp": 3,
+        "url": "https://ir.lib.fukushima-u.ac.jp/repo/repository/fukuro/R000004149/19-148.pdf",
+        "note": "森有礼のもとで公布。尋常小学校の設置が困難な地方に修業年限3年以内の「小学簡易科」を認め、授業料を徴収しないこととした。忠愛小学校はこの簡易科の学校。"
+      }
+    ],
+    "1889": [
+      {
+        "label": "東京府が小学校の帳簿と保存年限を定める",
+        "startYear": "1889",
+        "genre": [
+          "RECORD"
+        ],
+        "imp": 5,
+        "url": "https://www.jacar.archives.go.jp/das/meta/A15111817900",
+        "note": "件名「東京府小学校整理ノ帳簿ヲ定ム」（明治22年3月27日／国立公文書館『公文類聚』）。生徒学籍簿・生徒操行査定ニ関スル帳簿・卒業及修業証書並ニ操行査定証書各番号簿＝保存無期限、試験問題及成績表＝八箇年、毎級生徒出席簿＝三箇年、職員出勤簿＝一箇年。"
+      },
+      {
+        "label": "忠愛小学校で学校給食が始まる（日本初とされる）",
+        "startYear": "1889",
+        "genre": [
+          "PERSON"
+        ],
+        "imp": 5,
+        "url": "https://www.city.tsuruoka.lg.jp/kyoiku/gakko/kyushoku/kyusyokunorekisi.files/rekisi0709.pdf",
+        "note": "山形県鶴岡町。常念寺の佐藤霊山ら寺院の住職が、貧しい家庭の子ども達も学校に通えるようにと大督寺の本堂の一部に「忠愛小学校」をつくり、托鉢で集めたもので弁当を持ってこられない子に昼食を出した。"
+      },
+      {
+        "label": "『少年園』に添削つき通信教育の広告",
+        "startYear": "1889",
+        "genre": [
+          "MARKET"
+        ],
+        "imp": 3,
+        "url": "https://ouj.repo.nii.ac.jp/record/4655/files/KJ00005165965.pdf",
+        "note": "国民英学会「英語講義録」広告（明治22年5月18日号）。「通信科を設け作文添削質疑の答解等」と謳う。学校の外で学ぶ市場が既に立ち上がっていた。"
+      }
+    ],
+    "1900": [
+      {
+        "label": "学歴主義の原型が形成される",
+        "startYear": "1900",
+        "genre": [
+          "INSTITUTION"
+        ],
+        "imp": 5,
+        "url": "https://ouj.repo.nii.ac.jp/record/4655/files/KJ00005165965.pdf",
+        "note": "菅原亮芳「第2章 中学講義録の世界」：「1900年代に形成される我が国の近代公教育制度の確立、学歴主義の原型の形成は、人々に正則の順序を踏んで学習することを要求した」。資格は「高等教育機関入学者が絶対的に身につけておかなければならないパスポート」であり、独学の目的が職業資格から中等学校卒業資格へ移った。",
+        "endYear": "1910"
+      }
+    ],
+    "1902": [
+      {
+        "label": "就学率が男女平均で初めて90％を超える",
+        "startYear": "1902",
+        "genre": [
+          "INSTITUTION"
+        ],
+        "imp": 4,
+        "url": "https://www.mext.go.jp/b_menu/hakusho/html/others/detail/1318229.htm",
+        "note": "明治35年。明治42年（1909）には98％台に達する。"
+      },
+      {
+        "label": "大日本国民中学会 発足",
+        "startYear": "1902",
+        "genre": [
+          "MARKET"
+        ],
+        "imp": 4,
+        "url": "https://crd.ndl.go.jp/reference/detail?page=ref_view&id=1000014193",
+        "note": "会長 尾崎行雄／創立 河野正義。月2回『正則中学講義録』を発刊。各学年を6か月で修了、随時入学可、修了者に試験と卒業証書、女学部も設置。規模は資料により幅があり確定していない。"
+      }
+    ],
+    "1940": [
+      {
+        "label": "学校給食奨励規程 ── 給食の目的が「栄養補給」に変わる",
+        "startYear": "1940",
+        "genre": [
+          "LAW"
+        ],
+        "imp": 4,
+        "url": "https://www.city.tsuruoka.lg.jp/kyoiku/gakko/kyushoku/kyusyokunorekisi.files/rekisi0709.pdf",
+        "note": "貧困児童だけでなく身体虚弱・栄養不良児にも栄養補給の目的から給食が行われるようになる。1889年に「就学奨励」の手段として始まったものが、51年で目的そのものになった。"
+      }
+    ],
+    "1947": [
+      {
+        "label": "学籍簿の保存は「15年以上」へ ── 保存無期限が放棄される",
+        "startYear": "1947",
+        "genre": [
+          "RECORD"
+        ],
+        "imp": 5,
+        "url": "https://crd.ndl.go.jp/reference/detail?page=ref_view&id=1000255042",
+        "note": "昭和22年4月1日 文部省令第11号。1889年東京府規程の「保存無期限」に、初めて期限が付いた。同年、学校教育法が制定され、就学義務は保護者に課される。"
+      }
+    ],
+    "1950": [
+      {
+        "label": "指導要録 10年以上",
+        "startYear": "1950",
+        "genre": [
+          "RECORD"
+        ],
+        "imp": 3,
+        "url": "https://crd.ndl.go.jp/reference/detail?page=ref_view&id=1000255042",
+        "note": "昭和25年9月1日 文部省令第28号。"
+      }
+    ],
+    "1953": [
+      {
+        "label": "指導要録 10年間",
+        "startYear": "1953",
+        "genre": [
+          "RECORD"
+        ],
+        "imp": 3,
+        "url": "https://crd.ndl.go.jp/reference/detail?page=ref_view&id=1000255042",
+        "note": "昭和28年10月31日 文部省令第25号。"
+      }
+    ],
+    "1956": [
+      {
+        "label": "指導要録 20年間",
+        "startYear": "1956",
+        "genre": [
+          "RECORD"
+        ],
+        "imp": 3,
+        "url": "https://crd.ndl.go.jp/reference/detail?page=ref_view&id=1000255042",
+        "note": "昭和31年4月1日 文部省令第9号。"
+      }
+    ],
+    "1960": [
+      {
+        "label": "「学校恐怖症の研究」",
+        "startYear": "1960",
+        "genre": [
+          "INSTITUTION"
+        ],
+        "imp": 3,
+        "url": "https://cir.nii.ac.jp/crid/1521980705367099648",
+        "note": "鷲見たえ子『精神衛生研究』掲載。学校に来ないことが精神保健研究の対象になっていたことが書誌から確認できる。ただしこの論文が政策を直接変えたことは確認していない。"
+      }
+    ],
+    "1992": [
+      {
+        "label": "学籍関連＝20年／その他＝5年（現行の二層構造）",
+        "startYear": "1992",
+        "genre": [
+          "RECORD"
+        ],
+        "imp": 5,
+        "url": "https://crd.ndl.go.jp/reference/detail?page=ref_view&id=1000255042",
+        "note": "平成4年4月1日 文部省令第1号。現在の学校教育法施行規則第28条の姿はここで確立した。1889年から数えて5回目の改正。"
+      }
+    ],
+    "1998": [
+      {
+        "label": "統計の名称が「学校ぎらい」から「不登校」へ",
+        "startYear": "1998",
+        "genre": [
+          "INSTITUTION"
+        ],
+        "imp": 4,
+        "url": "https://www.mext.go.jp/magazine/backnumber/1422844_00083.htm",
+        "note": "学校基本調査の理由欄の名称が変わり、定義も変わった。名前が変わると統計に入る人が変わるため、1997年度以前と以後を一本の線で比較することはできない。"
+      }
+    ],
+    "2016": [
+      {
+        "label": "教育機会確保法 ── 法律が「休養の必要性」を認める",
+        "startYear": "2016",
+        "genre": [
+          "LAW"
+        ],
+        "imp": 5,
+        "url": "https://www.mext.go.jp/a_menu/shotou/seitoshidou/1380960.htm",
+        "note": "正式名称「義務教育の段階における普通教育に相当する教育の機会の確保等に関する法律」。2017年完全施行。学校以外の学びの場の確保を国・自治体の責務とした。1998年の「検知」の拡大から18年後。"
+      }
+    ],
+    "2024": [
+      {
+        "label": "小・中学校の不登校 約35万4千人",
+        "startYear": "2024",
+        "genre": [
+          "INSTITUTION"
+        ],
+        "imp": 4,
+        "url": "https://www.mext.go.jp/a_menu/shotou/seitoshidou/1422178_00006.htm",
+        "note": "令和6年度調査（2025年10月29日公表）。12年連続で増加。うち学校内外の機関等で専門的な相談・指導等を受けていない児童生徒は約13万6千人（＝「誰からも支援がない」という意味ではない）。"
+      }
+    ]
+  }
+}
